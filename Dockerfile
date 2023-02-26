@@ -10,6 +10,8 @@ RUN apt-get update && \
 
 COPY package.json .
 
-EXPOSE 5000
+RUN npm install
 
-CMD ["node", "index.js"]
+COPY . .
+
+CMD ["node", "."]
