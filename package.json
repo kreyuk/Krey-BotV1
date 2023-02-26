@@ -1,11 +1,11 @@
 {
-  "name": "Ap-botz",
+  "name": "krey-bot",
   "version": "2.5.0",
-  "description": "Jangan Ubah Nama Di Atas",
-  "main": "dian.js",
+  "description": "Bot WhatsApp ",
+  "main": "index.js",
   "type": "commonjs",
   "scripts": {
-    "start": "node dian.js"
+    "start": "node index.js"
   },
   "keywords": [
     "termux",
@@ -18,7 +18,7 @@
     "bot-md",
     "multi-device"
   ],
-  "author": "Grizly9",
+  "author": "Kreyuk",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "^4.3.0",
