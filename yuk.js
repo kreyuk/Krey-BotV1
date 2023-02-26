@@ -313,7 +313,7 @@ DLL
 SILAHKAN PILIH ANGKA BERDASARKAN NOKOS YG KALIAN MAU`, `${global.author}`, kr)
   }
   break
-case 'menuw':{
+case 'home':{
 let timestamp = speed()
 let latensi = speed() - timestamp
 let tekssss = `  INFO 	
@@ -324,6 +324,8 @@ let tekssss = `  INFO
 ═══════❲ WAKTU 
 ➥🕓 : ${wita} WITA
 ➥🗓️ : ${tanggal}
+
+*GANTI TITIK (.) DENGAN KOMA (,)
 
   MENU PEMILIK
  Addakses @
@@ -364,6 +366,7 @@ let tekssss = `  INFO
 .gimage
 .pinterest
 .yts
+.brainly
 
   OPEN AI
 .ai (query)
